@@ -1,4 +1,4 @@
-test_score = 65
+test_score = 80
 pass_score = 70
 
 if test_score == 100
